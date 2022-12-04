@@ -1,0 +1,25 @@
+/*BANNER STYLES*/
+.background-image-banner{
+  background-image: url(https://images.pexels.com/photos/717501/pexels-photo-717501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position: bottom;
+  background-size: cover;
+}
+/*BANNER STYLES*/
+
+/*WHYCHOOSEUS STYLES*/
+.circle {
+  border-radius: 50%;
+}
+
+.background-image{
+  background-image: url(https://images.pexels.com/photos/717501/pexels-photo-717501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position: bottom;
+  background-size: cover;
+}
+/*WHYCHOOSEUS STYLES*/
+
+/*FOOTER STYLES*/
+.background-Footer{
+  background-color: #003785;
+}
+/*FOOTER STYLES*/
