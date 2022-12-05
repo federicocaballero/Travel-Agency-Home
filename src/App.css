@@ -1,8 +1,24 @@
 /*BANNER STYLES*/
 .background-image-banner{
-  background-image: url(https://images.pexels.com/photos/717501/pexels-photo-717501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-position: bottom;
+  background-image: url(https://images.pexels.com/photos/3224345/pexels-photo-3224345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-position: center;
   background-size: cover;
+  min-height: 450px;
+}
+
+.borde-izquierdo-redondo{
+  border-radius: 50px 0px 0px 50px; 
+border: 0px solid #800000;
+}
+
+.bordes-rectos{
+  border-radius: 0px 0px 0px 0px; 
+  border: 0px solid #800000;
+}
+
+.borde-derecho-redondo{
+  border-radius: 0px 50px 50px 0px; 
+  border: 0px solid #800000;
 }
 /*BANNER STYLES*/
 
