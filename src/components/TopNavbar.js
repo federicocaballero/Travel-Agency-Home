@@ -3,11 +3,11 @@ import React from "react";
 const TopNavar = () => {
     return(
         <>
-        <div class="container text-center">
+        <div class="text-center bg-color-topnavbar">
         <div class="row">
             {/* DIV IZQUIERDO */}
-            <div className = 'col d-flex justify-content-center'>
-                <h1>TRAVEL AGENCY</h1>      
+            <div className = 'col d-flex justify-content-center align-items-center'>
+                <h1 className="fs-2 text-light text-uppercase fw-bold">TRAVEL AGENCY</h1>      
             </div>
             {/* DIV DERECHO */}
             <div className = 'col d-inline d-flex justify-content-center'>
