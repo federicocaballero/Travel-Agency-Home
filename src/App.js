@@ -31,26 +31,26 @@ function App() {
           <h2 className='fw-bold' >Best Offers</h2>
           <h2 className='fs-5 fw-bolder mb-3'>check out our top-rated tours</h2>      
         </span>
-        <div class="container d-grid gap-3 mt-4 mb-5">
-        <div class="row">
-            <div class="col">
+        <div className="container d-grid gap-3 mt-4 mb-5">
+        <div className="row">
+            <div className="col">
               <Offers data = {dataImg[0]} />
             </div>
-            <div class="col">
+            <div className="col">
               <Offers data = {dataImg[1]} />
             </div>
-            <div class="col">
+            <div className="col">
               <Offers data = {dataImg[2]} />
             </div>
        </div>
-        <div class="row">
-            <div class="col">
+        <div className="row">
+            <div className="col">
                     <Offers data = {dataImg[3]} />
                   </div>
-            <div class="col">
+            <div className="col">
                     <Offers data = {dataImg[4]} />
                   </div>
-                  <div class="col">
+                  <div className="col">
                     <Offers data = {dataImg[5]} />
                   </div>
                 </div>
